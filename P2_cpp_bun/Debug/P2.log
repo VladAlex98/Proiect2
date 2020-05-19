@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Alex\source\repos\P2\main.cpp(59,12): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Alex\source\repos\P2\main.cpp(61,12): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Alex\source\repos\P2\main.cpp(63,12): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Alex\source\repos\P2\main.cpp(141,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alex\source\repos\P2\main.cpp(171,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alex\source\repos\P2\main.cpp(201,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alex\source\repos\P2\main.cpp(80): warning C4715: 'KNN': not all control paths return a value
+  P2.vcxproj -> C:\Users\Alex\source\repos\P2\Debug\P2.exe

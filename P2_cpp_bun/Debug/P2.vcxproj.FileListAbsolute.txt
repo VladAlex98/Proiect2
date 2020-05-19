@@ -1,0 +1,2 @@
+C:\Users\Alex\source\repos\P2\Debug\P2.exe
+C:\Users\Alex\source\repos\P2\Debug\P2.pdb
